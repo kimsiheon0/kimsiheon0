@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+이름: 김시헌
+학번:1603
+학교:대구과학고등학교
 <!--
 **kimsiheon0/kimsiheon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
